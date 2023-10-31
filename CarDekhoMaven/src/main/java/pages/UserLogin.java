@@ -60,7 +60,7 @@ public class UserLogin {
 		 }
 		
 
-		 
+		 ///////
 		 public void sendpin(String pin)
 		 {
 			PinCode .sendKeys(pin);
