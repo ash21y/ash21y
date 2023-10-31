@@ -60,17 +60,17 @@ public class UserLogin {
 		 }
 		
 
-		 ///////
+		
 		 public void sendpin(String pin)
 		 {
 			PinCode .sendKeys(pin);
 		 }
-		 //////////
+		 
 		 public void sendmobileno(String mobileno)
 		 {
 			MobNo.sendKeys(mobileno);
 		 }
-		 //////////
+		
 		 
 		
 		 
